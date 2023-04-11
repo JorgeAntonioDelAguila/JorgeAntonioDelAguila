@@ -7,4 +7,4 @@ I'm a web and mobile developer. Flutter lover. Science fiction fan.
 
 * I really like to learn something new everyday.
 * I’m currently learning Flutter, Django and Vue js.
-* 🌱 🐝
+* 🌱 🐝 💻
